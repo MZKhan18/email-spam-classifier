@@ -4,6 +4,10 @@ This is an Email Spam Classifier web application that utilizes multiple machine 
 
 ## Website link https://email-spam-classifier-ua8t.onrender.com
 
+## Snapshot of Project
+![Screenshot 2023-08-02 184821](https://github.com/MZKhan18/email-spam-classifier/assets/83308074/9f61ea5d-fa60-46e0-ba33-f18865f5cb4f)
+
+
 ## Overview
 
 The goal of this project is to create a robust email spam classifier capable of accurately distinguishing between spam and legitimate (ham) emails. To achieve this, the following steps were taken:
